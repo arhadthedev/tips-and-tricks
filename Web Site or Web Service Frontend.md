@@ -1,0 +1,1 @@
+Eitherr a static side or a frontend for a [[Web Service Backend]].

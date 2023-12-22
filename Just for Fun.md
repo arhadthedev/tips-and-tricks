@@ -1,0 +1,2 @@
+- [Google easter egg for "кот" query](https://pikabu.ru/story/zachem_ya_yeto_prochitala_9543983)
+- 
