@@ -1,0 +1,1 @@
+Proportions of project cards with attention grabbing illustrations: https://magnushoff.com/

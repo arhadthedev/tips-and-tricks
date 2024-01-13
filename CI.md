@@ -1,5 +1,7 @@
 Automate building and deployment (publishing) of a [[Desktop Application]], [[Web Service Backend]], and [[Web Site or Web Service Frontend]].
 
+Need automation for https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.
+
 ### GitHub Actions
 
 `.github/workflows/build.yml` script:

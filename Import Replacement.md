@@ -1,0 +1,2 @@
+- [ТИМ (BIM) и сметное ПО: АВС-смета. Установка в AltLinux](https://habr.com/ru/articles/712230/)
+- 

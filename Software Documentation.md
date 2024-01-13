@@ -1,5 +1,19 @@
 Shipped with [[Desktop Application]]s and [[Web Service Backend]]s. Contains HOWTOs and advices on advanced (hacker grade) use of separate parts of the application together with each other and external tools.
 
+## Directory structure
+
+We supply Sphynx source files in `docs` directory.
+
+- `docs`
+	- `specifications` - third party documents we ship to make techncal users aware of what we implement
+
+Example `docs/specifications/README.md`:
+
+```markdown
+This directory contains revisions of specifications implementented in
+a currently checked out version of Dutyblasm.
+```
+
 ## Self-documenting code
 
 ```cpp

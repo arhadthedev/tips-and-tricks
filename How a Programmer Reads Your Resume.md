@@ -76,56 +76,51 @@ An extra from <https://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-le
 > Resume screeners keep an eye out for non-weasel words, aka Productivity Words. These are words that you can't weasel out of when someone asks you about them. The best are synonyms of "got real stuff done", including "coded", "implemented", "developed", "delivered", and "launched".
   >
 > It's perfectly OK to use "designed", as long as you follow it up with a Productivity Word. If you design something without implementing it, then it's just a synonym for "Proposed". If you prefer to design things that other people ultimately implement, then you're quite possibly outstanding material for a company full of kneebiters. But a real tech company like Amazon or eBay or Microsoft or whoever isn't going to hire you, because they can find plenty of people who can both design things _and_ implement them.
-
+>
 > **Tip #5: Avoid Wank Words**  
-  
-Wank Words are words that inflate your perceived importance (e.g. using "architected" rather than "designed"), or words that have simply become synonyms, such as "Rational UML Process", for the so-called work done by people who sit on their asses and don't know how to code anymore.  
-  
-Wank Words are worse than just devoid of content; they're active indicators of total inactivity. Resume screeners either delete Wank Words or replace them with the word "wank" (e.g., "Certified Wank Master"), which makes the resume a lot easier to scan.  
-  
-"Advocate" is a common wank word, when it refers to a title or position. If it's a verb then it's just a weasel word, but if you think it's your title, then you've inflated yourself into Wanker territory. Either way, if you're walking around advocating stuff, it means you're not working. Also, it means nobody listens to you, because if you possessed actual leadership, people would just do what you recommended and then you wouldn't need advocate it anymore. So "advocate" just means "wanker".  
-  
-"Consultant" is often another absolutely outstanding synonym for "wanker". Now let me just add, before I get stabbed to death by eager members of the heavily armed Consultant Industry, that _some_ consultants are great. The problem is that the odds are completely stacked against you _in tech resume screening_. It's like fast-food experience when applying to be a waiter at a fancy restaurant. It _might_ have helped you hone your waiter skills, but the odds are against it, and a lot of the art of resume screening is about weighing odds.  
-  
-The problem with "consultant" is that it has two meanings. It can either mean "person who was hired on a contract basis to fill a coding need in the organization", or it can mean "person hired to 'consult', aka 'wank', because the hiring organization is too clueless to solve their own problems and too incompetent to retain even one full-time staff member capable of helping them, so they turn to paid self-help." When you see the word on a resume, it can be hard to distinguish which kind it is.  
-  
-The all-time worst Wank Word is probably "Methodologist". It will definitely get your resume circulated around at tech companies, but not for the reasons you were hoping. Any sort of amusing synonym for "Methodologist", such as Scrum Master, generally has the same effect.  
-  
-Wank Words are a bit like the adjectives on restaurant menus — meaningless fluff words added in an attempt to make the dish sound tasty. You can get a much clearer idea of what the hell it is that you're contemplating eating if you take all the adjectives out, including nouns and noun-strings that serve as adjectives. For instance, _House Cured Spice Rubbed Apple Smoked Line Caught Columbia River Coho Salmon_, when all the Wank Words are removed, becomes "Salmon", which is of course the only part of the description that you're actually eating. Depending on how you feel about what that winds up being, you can replace all the adjectives with either "icky" or "yummy", e.g. "Yummy yummy yummy yummy yummy yummy yummy yummy Salmon", or "Icky icky icky icky icky icky icky icky Eggplant."  
-  
-Hence, many wank-filled resumes wind up looking, after the screeners have marked them up a bit, like this: "Senior wanker wanking for the Wank-Wank Institute of Wankology on the wank wank wank project during which I wanked successfully with seven other wanky wankers."  
-  
-Well, "senior" is also kind of a wank word, but you get the idea.
+  >
+> Wank Words are words that inflate your perceived importance (e.g. using "architected" rather than "designed"), or words that have simply become synonyms, such as "Rational UML Process", for the so-called work done by people who sit on their asses and don't know how to code anymore.  
+  >
+> Wank Words are worse than just devoid of content; they're active indicators of total inactivity. Resume screeners either delete Wank Words or replace them with the word "wank" (e.g., "Certified Wank Master"), which makes the resume a lot easier to scan.  
+  >
+> "Advocate" is a common wank word, when it refers to a title or position. If it's a verb then it's just a weasel word, but if you think it's your title, then you've inflated yourself into Wanker territory. Either way, if you're walking around advocating stuff, it means you're not working. Also, it means nobody listens to you, because if you possessed actual leadership, people would just do what you recommended and then you wouldn't need advocate it anymore. So "advocate" just means "wanker".  
+  >
+> "Consultant" is often another absolutely outstanding synonym for "wanker". Now let me just add, before I get stabbed to death by eager members of the heavily armed Consultant Industry, that _some_ consultants are great. The problem is that the odds are completely stacked against you _in tech resume screening_. It's like fast-food experience when applying to be a waiter at a fancy restaurant. It _might_ have helped you hone your waiter skills, but the odds are against it, and a lot of the art of resume screening is about weighing odds.  
+  >
+> \[...\]
+  >
+> The all-time worst Wank Word is probably "Methodologist". It will definitely get your resume circulated around at tech companies, but not for the reasons you were hoping. Any sort of amusing synonym for "Methodologist", such as Scrum Master, generally has the same effect.  
+  >
+> Wank Words are a bit like the adjectives on restaurant menus — meaningless fluff words added in an attempt to make the dish sound tasty. You can get a much clearer idea of what the hell it is that you're contemplating eating if you take all the adjectives out, including nouns and noun-strings that serve as adjectives. For instance, _House Cured Spice Rubbed Apple Smoked Line Caught Columbia River Coho Salmon_, when all the Wank Words are removed, becomes "Salmon", which is of course the only part of the description that you're actually eating. Depending on how you feel about what that winds up being, you can replace all the adjectives with either "icky" or "yummy", e.g. "Yummy yummy yummy yummy yummy yummy yummy yummy Salmon", or "Icky icky icky icky icky icky icky icky Eggplant."  
+  >
+> Hence, many wank-filled resumes wind up looking, after the screeners have marked them up a bit, like this: "Senior wanker wanking for the Wank-Wank Institute of Wankology on the wank wank wank project during which I wanked successfully with seven other wanky wankers."  
+>
+> **Tip #6: Don't be a Certified Loser**  
+>
+> Don't ever, _ever_ use the word "certified" your resume. It's far and away one of the most prominent red flags in resume screening, bordering on a dead-giveaway round-file 86-that-bad-boy no-review-required situation, if you know what I mean. (If you don't know what I mean, well, you know the old saying about not knowing who the sucker is at the poker table.)  
+  >
+> \[...\]
+  >
+> Same goes for tech certification. It means you had to take a course to learn something you could have read in a book. If you know something, just say you know it, and then be prepared to answer questions about it during your phone screens and/or interviews. If you feel compelled to add that you're certified in said skill, it's just broadcasting that you lack confidence in your own self-assessments, which doesn't help you in the slightest.  
+  >
+> Seriously. Take all mentions of certifications off your tech resume. It's actively hurting your chances of getting an interview.  
+  >
+> **Tip #7: Don't say "expert" unless you really mean it**  
+ > 
+> The term "expert" makes experts' eyes glow red. It doesn't bother me personally, but I know enough interviewers who care vastly about it that I'm advising you to steer clear. If you say you're an expert in something, many interviewers take it to mean you claim to have a bigger penis than they do, metaphorically speaking of course, and they're going to pull out their still highly metaphorical measuring stick during the interview and size you up. I employ this metaphor in its most gender-neutral possible interpretation, needless to say.  
+  >
+> A friend of mine at Amazon once told me that he takes resumes that list "expertise" and he tells the candidate something along these lines: "Wow! You don't often find true experts in fields like this. I feel like I've found a kindred spirit here. I don't often do this, but I'm going to pick one of these technologies you're an expert at, and we're doing to do an incredibly deep technical dive on the subject. But before I start, is there anything you want to take off the resume?"  
+  >
+> He says it's like truth serum. (Hi, H.B.!)
+>
+> **Tip #9: Don't bore us to death**  
+>
+> Consider this resume statement:  
+  >
+  > designed and developed runtime library code to emulate  MS-DOS and BIOS calls on a variety of Unix platforms.  This  enables binary-ported DOS application programs such as Quicken and Microsoft Word to run under a commercial emulator on Unix platforms.  This enables users who do not currently have access  to a DOS machine, but who have blah blah BLAH lather rinse repeat.
+>
+> All it needs is the first sentence; we can deduce the rest.
 
-**Tip #6: Don't be a Certified Loser**  
-  
-Don't ever, _ever_ use the word "certified" your resume. It's far and away one of the most prominent red flags in resume screening, bordering on a dead-giveaway round-file 86-that-bad-boy no-review-required situation, if you know what I mean. (If you don't know what I mean, well, you know the old saying about not knowing who the sucker is at the poker table.)  
-  
-Certification is for the weak. It's something that flags you as a technician when you really want to be an engineer. If you want to be a television repairman, you can become certified in TV repair. If you want to work for Sony and design their next big-screen TV, then you clearly don't need a busy-working-adults course on how to repair the fugging things.  
-  
-Same goes for tech certification. It means you had to take a course to learn something you could have read in a book. If you know something, just say you know it, and then be prepared to answer questions about it during your phone screens and/or interviews. If you feel compelled to add that you're certified in said skill, it's just broadcasting that you lack confidence in your own self-assessments, which doesn't help you in the slightest.  
-  
-Seriously. Take all mentions of certifications off your tech resume. It's actively hurting your chances of getting an interview.  
-  
-**Tip #7: Don't say "expert" unless you really mean it**  
-  
-The term "expert" makes experts' eyes glow red. It doesn't bother me personally, but I know enough interviewers who care vastly about it that I'm advising you to steer clear. If you say you're an expert in something, many interviewers take it to mean you claim to have a bigger penis than they do, metaphorically speaking of course, and they're going to pull out their still highly metaphorical measuring stick during the interview and size you up. I employ this metaphor in its most gender-neutral possible interpretation, needless to say.  
-  
-A friend of mine at Amazon once told me that he takes resumes that list "expertise" and he tells the candidate something along these lines: "Wow! You don't often find true experts in fields like this. I feel like I've found a kindred spirit here. I don't often do this, but I'm going to pick one of these technologies you're an expert at, and we're doing to do an incredibly deep technical dive on the subject. But before I start, is there anything you want to take off the resume?"  
-  
-He says it's like truth serum. (Hi, H.B.!)
+An extra from https://habr.com/ru/articles/454570/comments/:
 
-**Tip #9: Don't bore us to death**  
-  
-Consider this resume statement:  
-  
-
-  * designed and developed runtime library code to emulate  
-   MS-DOS and BIOS calls on a variety of Unix platforms.  This  
-   enables binary-ported DOS application programs such as Quicken  
-   and Microsoft Word to run under a commercial emulator on Unix  
-   platforms.  This enables users who do not currently have access  
-   to a DOS machine, but who have blah blah BLAH lather rinse repeat.
-
-  
-All it needs is the first sentence; we can deduce the rest.
+> I respect programmers who have their own projects. It means you love your profession. And I am sure \[you are\] a good specialist.

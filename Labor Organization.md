@@ -1,3 +1,7 @@
+### Release Train
+
+[Какие проблемы решает Release Train в мобильной разработке](https://habr.com/ru/company/dododev/blog/706158/)
+
 ## Japanese 5S
 
 [5S](https://en.wikipedia.org/wiki/5S_(methodology)) is about workplace organization:

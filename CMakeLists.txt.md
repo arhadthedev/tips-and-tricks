@@ -5,12 +5,12 @@ A convenient build script for a [[Desktop Application]].
 ```CMakeLists
 # CMakeLists.txt - a root build file
 #
-# Copyright (c) 2021 Oleg Iarygin <oleg@arhadthedev.net>
+# Copyright © 2021 Oleg Iarygin <oleg@arhadthedev.net>
 #
 # Distributed under the MIT software license; see the accompanying
 # file LICENSE.txt or <https://www.opensource.org/licenses/mit-license.php>.
 
-# cxx_std_17 in CMAKE_CXX_KNOWN_FEATURES was introduced in 3.8
+# cxx_std_17 in CMAKE_CXX_KNOWN_FEATURES was introduced in 3.8.
 #
 # New versions of C++ remove unsafe practices from the standard library, so
 # force the latest version available. "cxx_std_*" means "at least C++ xxx".

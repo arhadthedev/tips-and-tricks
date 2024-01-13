@@ -418,3 +418,42 @@ def main():
 if __name__ == '__main__':
   main()
 ```
+
+## wemake-python-styleguide (Flake8, mypy)
+
+`.github/workflows/check_code_style.yaml`:
+
+```yaml
+name: Check Code Style
+
+on:
+  push
+  pull_request
+
+jobs:
+  check_python:
+    name: Check Python code
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout a repository
+        # Do not clone submodules; they have their own maintainers
+        uses: actions/checkout@2
+      - name: Install linters
+        run: pip install wemake-python-styleguide mypy
+      - name: Check against style guides with flake8
+        run: python -m flake8 .
+      - name: Check for variable type restrictions with MyPy
+        run: python -m mypy .
+```
+
+This file is committed should be committed with the following message:
+
+> Enforce guidelines for Python code
+>
+> Use GitHub Actions to test Python utilities against PEP8, style guides,
+and type annotations.
+>
+> Note that style guides are not a formal requirement to be satisfied at
+any cost but a reason to play around a line flake8 linter pointed to.
+> A problem reported is just a visible sprout of deeper, fundamental issue
+of readability or misuse the linter accidentally uncovered.

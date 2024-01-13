@@ -39,3 +39,13 @@ Release/
 *.pyc
 ~*
 ```
+
+JavaScript:
+
+```gitignore
+# CMake artifacts
+build/
+
+# NPM artifacts
+node_modules/
+```
